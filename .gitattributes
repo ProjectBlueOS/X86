@@ -1,0 +1,1 @@
+project_blueX86.iso filter=lfs diff=lfs merge=lfs -text
